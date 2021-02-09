@@ -6,7 +6,7 @@
 ## ✌️ preview
 
 Check out the live demo by clicking [here](https://friendkit.cssninja.io). 
-You can purchase Friendkit [here](https://themeforest.net/item/friendkit-social-media-ui-kit/24621825). 
+You can purchase Friendkit [here](https://cssninja.io/envato/friendkit). 
 Friendkit is built with [Bulma](https://bulma.io).
 
 ## 👍 Features
